@@ -5,6 +5,7 @@
 | **NIM**    | 312310613           |
 | **Kelas**  | TI.23.A6            |
 
+![doc](img/s.png)
 ## Class Customer
 ![doc](img/cus.png)
 ## Class Order
@@ -25,6 +26,9 @@ dengan abstrak class
 ![doc](img/kre.png)
 ## Class Main
 menambahkan main untuk mencoba program
+
 ![doc](img/main.png)
 ### output
+percobaan dengan pembayaran cash
+
 ![doc](img/ss.png)
